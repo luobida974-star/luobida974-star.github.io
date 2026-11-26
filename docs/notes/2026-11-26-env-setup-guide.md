@@ -6,6 +6,8 @@ tags: [环境配置, CUDA, PyTorch, YOLO]
 
 # 新电脑环境配置手册（简约步骤版）
 
+[下载完整文档 (PDF)](/files/env-setup-guide.pdf)
+
 > 适用：Windows 10/11 · RTX 5060 8GB（40/50 系通用）· CUDA 12.8
 > 全程约 3 小时 | 每步有【通过信号】，不对就停
 
