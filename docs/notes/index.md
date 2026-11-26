@@ -4,3 +4,4 @@
 
 ## 2026-11
 - [VitePress + GitHub Pages 建站完整手记](/notes/2026-11-25-vitepress-site-setup) —— 从零到上线的全流程与踩坑记录
+- [新电脑环境配置手册](/notes/2026-11-26-env-setup-guide) —— RTX 5060 + CUDA 12.8 + YOLO 训练环境完整搭建流程

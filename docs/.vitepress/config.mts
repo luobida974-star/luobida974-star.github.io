@@ -21,7 +21,10 @@ export default defineConfig({
         { text: '叶轮动平衡视觉检测方法研究', link: '/research-content' },
         { text: '课题算法概念', link: '/research-algorithms' },
       ] },
-      { text: '笔记', items: [{ text: '学习笔记', link: '/notes/' }] },
+            { text: '笔记', items: [
+        { text: '学习笔记', link: '/notes/' },
+        { text: '环境配置手册', link: '/notes/2026-11-26-env-setup-guide' },
+      ] },
     ],
     socialLinks: [{ icon: 'github', link: 'https://github.com/luobida974-star' }],
     editLink: {
