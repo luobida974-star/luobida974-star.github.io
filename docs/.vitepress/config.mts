@@ -17,7 +17,10 @@ export default defineConfig({
     ],
         sidebar: [
       { text: '开始', items: [{ text: '快速上手', link: '/guide/getting-started' }] },
-      { text: '研究', items: [{ text: '叶轮动平衡视觉检测方法研究', link: '/research-content' }] },
+            { text: '研究', items: [
+        { text: '叶轮动平衡视觉检测方法研究', link: '/research-content' },
+        { text: '课题算法概念', link: '/research-algorithms' },
+      ] },
       { text: '笔记', items: [{ text: '学习笔记', link: '/notes/' }] },
     ],
     socialLinks: [{ icon: 'github', link: 'https://github.com/luobida974-star' }],
